@@ -2,25 +2,29 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>Arches.kml</name>
-	<Style id="1893">
-		<PolyStyle id="1894">
-			<color>990000ff</color>
+	<!-- Define Polygon Style -->
+	<Style id="polygon_style">
+		<PolyStyle>
+			<color>66255c33</color> <!-- 40% opaque orange -->
+			<colorMode>normal</colorMode>
+			<fill>1</fill>
+			<outline>1</outline>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff255c33</color> <!-- Fully opaque green -->
+			<width>3</width>
+		</LineStyle>
 	</Style>
+
+	<!-- Folder -->
 	<Folder id="1888">
 		<name>Arches National Park</name>
 		<open>1</open>
-		<Style id="1893">
-			<PolyStyle id="1894">
-				<color>990000ff</color>
-				<colorMode>normal</colorMode>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-		</Style>
+		
+		<!-- Placemark -->
 		<Placemark id="1890">
 			<name>ARCH</name>
-			<styleUrl>#1893</styleUrl>
+			<styleUrl>#polygon_style</styleUrl>
 			<Polygon id="1889">
 				<outerBoundaryIs>
 					<LinearRing id="1891">
