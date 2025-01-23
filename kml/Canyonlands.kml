@@ -4,23 +4,29 @@
 	<name>Canyonlands.kml</name>
 	<Style id="3521">
 		<PolyStyle id="3522">
-			<color>990000ff</color>
+			<color>66ffffff</color> <!-- 40% opaque white-->
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="3527">
-		<PolyStyle id="3528">
-			<color>990000ff</color>
-		</PolyStyle>
+		
 	</Style>
 	<Folder id="3516">
 		<name>Canyonlands National Park</name>
 		<Style id="3527">
 			<PolyStyle id="3528">
-				<color>990000ff</color>
+				<color>66ffffff</color> <!-- 40% opaque white-->
 				<colorMode>normal</colorMode>
 				<fill>1</fill>
 				<outline>1</outline>
 			</PolyStyle>
+			<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+			</LineStyle>
 		</Style>
 		<Placemark id="3518">
 			<name>CANY</name>

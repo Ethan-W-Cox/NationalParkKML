@@ -2,16 +2,15 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>MammothCave.kml</name>
-	<Style id="9846">
-		<PolyStyle id="9847">
-			<color>990000ff</color>
-		</PolyStyle>
-	</Style>
 	<Folder id="9841">
 		<name>Mammoth Cave National Park</name>
 		<Style id="9846">
+			<LineStyle>
+				<color>ff000000</color> <!-- Fully opaque black -->
+				<width>2</width>
+			</LineStyle>
 			<PolyStyle id="9847">
-				<color>990000ff</color>
+				<color>66ffffff</color>
 				<colorMode>normal</colorMode>
 				<fill>1</fill>
 				<outline>1</outline>

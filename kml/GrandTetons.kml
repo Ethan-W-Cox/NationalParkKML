@@ -2,21 +2,20 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>GrandTetons.kml</name>
-	<Style id="6456">
-		<PolyStyle id="6457">
-			<color>990000ff</color>
-		</PolyStyle>
-	</Style>
 	<Folder id="6451">
 		<name>Grand Teton National Park</name>
 		<open>1</open>
 		<Style id="6456">
 			<PolyStyle id="6457">
-				<color>990000ff</color>
+				<color>66ffffff</color> <!-- 40% opaque white -->
 				<colorMode>normal</colorMode>
 				<fill>1</fill>
 				<outline>1</outline>
 			</PolyStyle>
+			<LineStyle>
+				<color>ff000000</color> <!-- Fully opaque black -->
+				<width>2</width>
+			</LineStyle>
 		</Style>
 		<Placemark id="6453">
 			<name>GRTE</name>

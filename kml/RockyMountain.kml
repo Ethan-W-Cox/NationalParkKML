@@ -4,24 +4,36 @@
 	<name>RockyMountain.kml</name>
 	<Style id="19856">
 		<PolyStyle id="19857">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="19862">
 		<PolyStyle id="19863">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Folder id="19851">
 		<name>Rocky Mountain National Park</name>
 		<open>1</open>
 		<Style id="19862">
 			<PolyStyle id="19863">
-				<color>990000ff</color>
+				<color>66ffffff</color>
 				<colorMode>normal</colorMode>
 				<fill>1</fill>
 				<outline>1</outline>
 			</PolyStyle>
+			<LineStyle>
+				<color>ff000000</color> <!-- Fully opaque black -->
+				<width>2</width>
+			</LineStyle>
 		</Style>
 		<Placemark id="19853">
 			<name>ROMO</name>

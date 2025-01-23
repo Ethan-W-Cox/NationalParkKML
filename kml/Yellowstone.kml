@@ -2,20 +2,19 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 	<name>Yellowstone.kml</name>
-	<Style id="21304">
-		<PolyStyle id="21305">
-			<color>990000ff</color>
-		</PolyStyle>
-	</Style>
 	<Folder id="21299">
 		<name>Yellowstone National Park</name>
 		<Style id="21304">
 			<PolyStyle id="21305">
-				<color>990000ff</color>
+				<color>66ffffff</color>
 				<colorMode>normal</colorMode>
 				<fill>1</fill>
 				<outline>1</outline>
 			</PolyStyle>
+			<LineStyle>
+				<color>ff000000</color> <!-- Fully opaque black -->
+				<width>2</width>
+			</LineStyle>
 		</Style>
 		<Placemark id="21301">
 			<name>YELL</name>

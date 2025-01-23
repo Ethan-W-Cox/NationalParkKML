@@ -4,1403 +4,2523 @@
 	<name>Olympic.kml</name>
 	<Style id="17234">
 		<PolyStyle id="17235">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17240">
 		<PolyStyle id="17241">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17246">
 		<PolyStyle id="17247">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17252">
 		<PolyStyle id="17253">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17258">
 		<PolyStyle id="17259">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17264">
 		<PolyStyle id="17265">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17270">
 		<PolyStyle id="17271">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17276">
 		<PolyStyle id="17277">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17282">
 		<PolyStyle id="17283">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17288">
 		<PolyStyle id="17289">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17294">
 		<PolyStyle id="17295">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17300">
 		<PolyStyle id="17301">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17306">
 		<PolyStyle id="17307">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17312">
 		<PolyStyle id="17313">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17318">
 		<PolyStyle id="17319">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17324">
 		<PolyStyle id="17325">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17330">
 		<PolyStyle id="17331">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17336">
 		<PolyStyle id="17337">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17342">
 		<PolyStyle id="17343">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17348">
 		<PolyStyle id="17349">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17354">
 		<PolyStyle id="17355">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17360">
 		<PolyStyle id="17361">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17366">
 		<PolyStyle id="17367">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17372">
 		<PolyStyle id="17373">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17378">
 		<PolyStyle id="17379">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17384">
 		<PolyStyle id="17385">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17390">
 		<PolyStyle id="17391">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17396">
 		<PolyStyle id="17397">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17402">
 		<PolyStyle id="17403">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17408">
 		<PolyStyle id="17409">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17414">
 		<PolyStyle id="17415">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17420">
 		<PolyStyle id="17421">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17426">
 		<PolyStyle id="17427">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17432">
 		<PolyStyle id="17433">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17438">
 		<PolyStyle id="17439">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17444">
 		<PolyStyle id="17445">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17450">
 		<PolyStyle id="17451">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17456">
 		<PolyStyle id="17457">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17462">
 		<PolyStyle id="17463">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17468">
 		<PolyStyle id="17469">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17474">
 		<PolyStyle id="17475">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17480">
 		<PolyStyle id="17481">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17486">
 		<PolyStyle id="17487">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17492">
 		<PolyStyle id="17493">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17498">
 		<PolyStyle id="17499">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17504">
 		<PolyStyle id="17505">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17510">
 		<PolyStyle id="17511">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17516">
 		<PolyStyle id="17517">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17522">
 		<PolyStyle id="17523">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17528">
 		<PolyStyle id="17529">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17534">
 		<PolyStyle id="17535">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17540">
 		<PolyStyle id="17541">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17546">
 		<PolyStyle id="17547">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17552">
 		<PolyStyle id="17553">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17558">
 		<PolyStyle id="17559">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17564">
 		<PolyStyle id="17565">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17570">
 		<PolyStyle id="17571">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17576">
 		<PolyStyle id="17577">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17582">
 		<PolyStyle id="17583">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17588">
 		<PolyStyle id="17589">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17594">
 		<PolyStyle id="17595">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17600">
 		<PolyStyle id="17601">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17606">
 		<PolyStyle id="17607">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17612">
 		<PolyStyle id="17613">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17618">
 		<PolyStyle id="17619">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17624">
 		<PolyStyle id="17625">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17630">
 		<PolyStyle id="17631">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17636">
 		<PolyStyle id="17637">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17642">
 		<PolyStyle id="17643">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17648">
 		<PolyStyle id="17649">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17654">
 		<PolyStyle id="17655">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17660">
 		<PolyStyle id="17661">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17666">
 		<PolyStyle id="17667">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17672">
 		<PolyStyle id="17673">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17678">
 		<PolyStyle id="17679">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17684">
 		<PolyStyle id="17685">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17690">
 		<PolyStyle id="17691">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17696">
 		<PolyStyle id="17697">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17702">
 		<PolyStyle id="17703">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17708">
 		<PolyStyle id="17709">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17714">
 		<PolyStyle id="17715">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17720">
 		<PolyStyle id="17721">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17726">
 		<PolyStyle id="17727">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17732">
 		<PolyStyle id="17733">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17738">
 		<PolyStyle id="17739">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17744">
 		<PolyStyle id="17745">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17750">
 		<PolyStyle id="17751">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17756">
 		<PolyStyle id="17757">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17762">
 		<PolyStyle id="17763">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17768">
 		<PolyStyle id="17769">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17774">
 		<PolyStyle id="17775">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17780">
 		<PolyStyle id="17781">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17786">
 		<PolyStyle id="17787">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17792">
 		<PolyStyle id="17793">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17798">
 		<PolyStyle id="17799">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17804">
 		<PolyStyle id="17805">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17810">
 		<PolyStyle id="17811">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17816">
 		<PolyStyle id="17817">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17822">
 		<PolyStyle id="17823">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17828">
 		<PolyStyle id="17829">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17834">
 		<PolyStyle id="17835">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17840">
 		<PolyStyle id="17841">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17846">
 		<PolyStyle id="17847">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17852">
 		<PolyStyle id="17853">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17858">
 		<PolyStyle id="17859">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17864">
 		<PolyStyle id="17865">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17870">
 		<PolyStyle id="17871">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17876">
 		<PolyStyle id="17877">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17882">
 		<PolyStyle id="17883">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17888">
 		<PolyStyle id="17889">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17894">
 		<PolyStyle id="17895">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17900">
 		<PolyStyle id="17901">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17906">
 		<PolyStyle id="17907">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17912">
 		<PolyStyle id="17913">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17918">
 		<PolyStyle id="17919">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17924">
 		<PolyStyle id="17925">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17930">
 		<PolyStyle id="17931">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17936">
 		<PolyStyle id="17937">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17942">
 		<PolyStyle id="17943">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17948">
 		<PolyStyle id="17949">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17954">
 		<PolyStyle id="17955">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17960">
 		<PolyStyle id="17961">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17966">
 		<PolyStyle id="17967">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17972">
 		<PolyStyle id="17973">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17978">
 		<PolyStyle id="17979">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17984">
 		<PolyStyle id="17985">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17990">
 		<PolyStyle id="17991">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="17996">
 		<PolyStyle id="17997">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18002">
 		<PolyStyle id="18003">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18008">
 		<PolyStyle id="18009">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18014">
 		<PolyStyle id="18015">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18020">
 		<PolyStyle id="18021">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18026">
 		<PolyStyle id="18027">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18032">
 		<PolyStyle id="18033">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18038">
 		<PolyStyle id="18039">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18044">
 		<PolyStyle id="18045">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18050">
 		<PolyStyle id="18051">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18056">
 		<PolyStyle id="18057">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18062">
 		<PolyStyle id="18063">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18068">
 		<PolyStyle id="18069">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18074">
 		<PolyStyle id="18075">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18080">
 		<PolyStyle id="18081">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18086">
 		<PolyStyle id="18087">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18092">
 		<PolyStyle id="18093">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18098">
 		<PolyStyle id="18099">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18104">
 		<PolyStyle id="18105">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18110">
 		<PolyStyle id="18111">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18116">
 		<PolyStyle id="18117">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18122">
 		<PolyStyle id="18123">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18128">
 		<PolyStyle id="18129">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18134">
 		<PolyStyle id="18135">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18140">
 		<PolyStyle id="18141">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18146">
 		<PolyStyle id="18147">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18152">
 		<PolyStyle id="18153">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18158">
 		<PolyStyle id="18159">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18164">
 		<PolyStyle id="18165">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18170">
 		<PolyStyle id="18171">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18176">
 		<PolyStyle id="18177">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18182">
 		<PolyStyle id="18183">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18188">
 		<PolyStyle id="18189">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18194">
 		<PolyStyle id="18195">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18200">
 		<PolyStyle id="18201">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18206">
 		<PolyStyle id="18207">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18212">
 		<PolyStyle id="18213">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18218">
 		<PolyStyle id="18219">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18224">
 		<PolyStyle id="18225">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18230">
 		<PolyStyle id="18231">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18236">
 		<PolyStyle id="18237">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18242">
 		<PolyStyle id="18243">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18248">
 		<PolyStyle id="18249">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18254">
 		<PolyStyle id="18255">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18260">
 		<PolyStyle id="18261">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18266">
 		<PolyStyle id="18267">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18272">
 		<PolyStyle id="18273">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18278">
 		<PolyStyle id="18279">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18284">
 		<PolyStyle id="18285">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18290">
 		<PolyStyle id="18291">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18296">
 		<PolyStyle id="18297">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18302">
 		<PolyStyle id="18303">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18308">
 		<PolyStyle id="18309">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18314">
 		<PolyStyle id="18315">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18320">
 		<PolyStyle id="18321">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18326">
 		<PolyStyle id="18327">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18332">
 		<PolyStyle id="18333">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18338">
 		<PolyStyle id="18339">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18344">
 		<PolyStyle id="18345">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18350">
 		<PolyStyle id="18351">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18356">
 		<PolyStyle id="18357">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18362">
 		<PolyStyle id="18363">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18368">
 		<PolyStyle id="18369">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18374">
 		<PolyStyle id="18375">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18380">
 		<PolyStyle id="18381">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18386">
 		<PolyStyle id="18387">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18392">
 		<PolyStyle id="18393">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18398">
 		<PolyStyle id="18399">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18404">
 		<PolyStyle id="18405">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18410">
 		<PolyStyle id="18411">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18416">
 		<PolyStyle id="18417">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18422">
 		<PolyStyle id="18423">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18428">
 		<PolyStyle id="18429">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18434">
 		<PolyStyle id="18435">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18440">
 		<PolyStyle id="18441">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18446">
 		<PolyStyle id="18447">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18452">
 		<PolyStyle id="18453">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18458">
 		<PolyStyle id="18459">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18464">
 		<PolyStyle id="18465">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18470">
 		<PolyStyle id="18471">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18476">
 		<PolyStyle id="18477">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18482">
 		<PolyStyle id="18483">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18488">
 		<PolyStyle id="18489">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18494">
 		<PolyStyle id="18495">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18500">
 		<PolyStyle id="18501">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18506">
 		<PolyStyle id="18507">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18512">
 		<PolyStyle id="18513">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18518">
 		<PolyStyle id="18519">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18524">
 		<PolyStyle id="18525">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18530">
 		<PolyStyle id="18531">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18536">
 		<PolyStyle id="18537">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18542">
 		<PolyStyle id="18543">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18548">
 		<PolyStyle id="18549">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18554">
 		<PolyStyle id="18555">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18560">
 		<PolyStyle id="18561">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18566">
 		<PolyStyle id="18567">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18572">
 		<PolyStyle id="18573">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18578">
 		<PolyStyle id="18579">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18584">
 		<PolyStyle id="18585">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18590">
 		<PolyStyle id="18591">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18596">
 		<PolyStyle id="18597">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18602">
 		<PolyStyle id="18603">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18608">
 		<PolyStyle id="18609">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18614">
 		<PolyStyle id="18615">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18620">
 		<PolyStyle id="18621">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18626">
 		<PolyStyle id="18627">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18632">
 		<PolyStyle id="18633">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18638">
 		<PolyStyle id="18639">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18644">
 		<PolyStyle id="18645">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18650">
 		<PolyStyle id="18651">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18656">
 		<PolyStyle id="18657">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18662">
 		<PolyStyle id="18663">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18668">
 		<PolyStyle id="18669">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18674">
 		<PolyStyle id="18675">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18680">
 		<PolyStyle id="18681">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18686">
 		<PolyStyle id="18687">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18692">
 		<PolyStyle id="18693">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18698">
 		<PolyStyle id="18699">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18704">
 		<PolyStyle id="18705">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18710">
 		<PolyStyle id="18711">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18716">
 		<PolyStyle id="18717">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18722">
 		<PolyStyle id="18723">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18728">
 		<PolyStyle id="18729">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18734">
 		<PolyStyle id="18735">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18740">
 		<PolyStyle id="18741">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18746">
 		<PolyStyle id="18747">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18752">
 		<PolyStyle id="18753">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18758">
 		<PolyStyle id="18759">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18764">
 		<PolyStyle id="18765">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18770">
 		<PolyStyle id="18771">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18776">
 		<PolyStyle id="18777">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18782">
 		<PolyStyle id="18783">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18788">
 		<PolyStyle id="18789">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18794">
 		<PolyStyle id="18795">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18800">
 		<PolyStyle id="18801">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18806">
 		<PolyStyle id="18807">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18812">
 		<PolyStyle id="18813">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18818">
 		<PolyStyle id="18819">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18824">
 		<PolyStyle id="18825">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18830">
 		<PolyStyle id="18831">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18836">
 		<PolyStyle id="18837">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18842">
 		<PolyStyle id="18843">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18848">
 		<PolyStyle id="18849">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18854">
 		<PolyStyle id="18855">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18860">
 		<PolyStyle id="18861">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18866">
 		<PolyStyle id="18867">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18872">
 		<PolyStyle id="18873">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18878">
 		<PolyStyle id="18879">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18884">
 		<PolyStyle id="18885">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18890">
 		<PolyStyle id="18891">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Style id="18896">
 		<PolyStyle id="18897">
-			<color>990000ff</color>
+			<color>66ffffff</color>
 		</PolyStyle>
+		<LineStyle>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
+		</LineStyle>
 	</Style>
 	<Folder id="17229">
 		<name>Olympic National Park</name>
 		<Style id="18896">
 			<PolyStyle id="18897">
-				<color>990000ff</color>
+				<color>66ffffff</color>
 				<colorMode>normal</colorMode>
 				<fill>1</fill>
 				<outline>1</outline>
 			</PolyStyle>
+			<LineStyle>
+				<color>ff000000</color> <!-- Fully opaque black -->
+				<width>2</width>
+			</LineStyle>
 		</Style>
 		<Placemark id="17231">
 			<name>OLYM</name>

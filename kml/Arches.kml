@@ -5,14 +5,14 @@
 	<!-- Define Polygon Style -->
 	<Style id="polygon_style">
 		<PolyStyle>
-			<color>66255c33</color> <!-- 40% opaque orange -->
+			<color>66ffffff</color> <!-- 40% opaque white (66 is 102 in decimal 102/255 = 0.4)-->
 			<colorMode>normal</colorMode>
 			<fill>1</fill>
 			<outline>1</outline>
 		</PolyStyle>
 		<LineStyle>
-			<color>ff255c33</color> <!-- Fully opaque green -->
-			<width>3</width>
+			<color>ff000000</color> <!-- Fully opaque black -->
+			<width>2</width>
 		</LineStyle>
 	</Style>
 
